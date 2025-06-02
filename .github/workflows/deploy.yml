@@ -20,4 +20,4 @@ jobs:
         working-directory: ./backend
         run: flyctl deploy --remote-only
         env:
-          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
+          FLY_API_TOKEN: fm2_lJPECAAAAAAACNnHxBBujb2uGqzT/AxCBRjb1xsFwrVodHRwczovL2FwaS5mbHkuaW8vdjGUAJLOABC6eR8Lk7lodHRwczovL2FwaS5mbHkuaW8vYWFhL3YxxDxb/L5zNV74HKZy0dXSlpxSUlHcGMq3OOCclzDJ6VU8miboReQmSM5UKq5NTOGo0tgx9frKHZv6WDrx7onETtwwKXHK303P9ZqTEgzz4no0bWJdr7y3wfgLwXHgufSMirr46UMSQ0nEUovYQt7ATZ5cLGkyscZW/sQn01Mlq+NehWQcANfrLziv4aDK08QgImjApneCH51IIQLcyDKfmM4W2rzgACAdnA+u9BuzOwk=,fm2_lJPETtwwKXHK303P9ZqTEgzz4no0bWJdr7y3wfgLwXHgufSMirr46UMSQ0nEUovYQt7ATZ5cLGkyscZW/sQn01Mlq+NehWQcANfrLziv4aDK08QQf25XlEBgX7AHYMNsrNOL8cO5aHR0cHM6Ly9hcGkuZmx5LmlvL2FhYS92MZYEks5oPVNYzmg9Vc4XzgAQFK0Kkc4AEBStxCBTKRjWSRK4OckcQYMbnB6kjJPs9fMjqQdx+mS/Ag9Y+A==,fo1_t33VTcBHgj_xavNjsu0jI_AJLnC2Fm5bLRwtD5MgpF4
