@@ -8,6 +8,6 @@ class SampleController {
 
     @GetMapping("/hello")
     fun sayHello(): String {
-        return "Hello, Sanghee8"
+        return "Hello, Sanghee9"
     }
 }
