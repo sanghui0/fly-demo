@@ -3,7 +3,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'frontend-old-lake-9984'
+app = 'frontend-long-haze-5785'
 primary_region = 'nrt'
 
 [build]
